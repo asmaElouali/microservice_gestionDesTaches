@@ -1,3 +1,3 @@
 ## Architecture Globale du projet 
 
-![image](https://github.com/asmaElouali/microservice_gestionDesTaches/assets/127212498/b8888256-fbb3-4f75-bcde-4fff754dadfb)
+ ![image](https://github.com/asmaElouali/microservice_gestionDesTaches/assets/127212498/aa4682ac-d5bd-4a52-ae48-3808f69c7902)
