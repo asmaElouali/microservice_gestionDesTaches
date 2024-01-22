@@ -1,0 +1,4 @@
+com.example.microservicenote.repository.NoteRepositoryTest#testFindByUserId()V
+==
+findAllByIdUser com.example.microservicenote.repository.NoteRepository#findAllByIdUser(Ljava/lang/Long;)Ljava/util/List;
+size java.util.List#size()I

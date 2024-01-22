@@ -1,0 +1,2 @@
+com.example.microservicenote.service.NoteServiceimplTest#canReadNote()V
+java.util.Optional#empty()Ljava/util/Optional;

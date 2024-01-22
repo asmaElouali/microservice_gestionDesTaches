@@ -1,0 +1,3 @@
+com.example.microservicenote.service.NoteServiceimpl#delete(Ljava/lang/Long;)V
+==
+readNote com.example.microservicenote.service.NoteServiceimpl#readNote(Ljava/lang/Long;)Lcom/example/microservicenote/entity/Note;

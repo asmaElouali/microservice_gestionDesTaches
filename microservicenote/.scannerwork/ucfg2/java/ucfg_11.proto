@@ -1,0 +1,63 @@
+
+{com.example.microservicenote.controller.NoteController#readNote(Ljava/lang/Long;)Lcom/example/microservicenote/entity/Note;è
+Ñ/C:/Users/acer/Desktop/Gestion des Taches/microservicenote/src/main/java/com/example/microservicenote/controller/NoteController.java& &("startingBlock*õ
+startingBlock& &(/~
+|
+% %(
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.LongÄ
+~
+& &(&
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+&, &(.
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*ﬂ
+1' '(¥
+±
+' '(6
+%00com.example.microservicenote.service.NoteService"__id*g
+
+__unknown_file (K*I8
+6com.example.microservicenote.controller.NoteController"
+noteservice⁄◊
+' '('.
+%1(com.example.microservicenote.entity.Note"ucom.example.microservicenote.service.NoteService#readNote(Ljava/lang/Long;)Lcom/example/microservicenote/entity/Note;*T
+
+__unknown_file (8
+6
+%00com.example.microservicenote.service.NoteService*2
+
+__unknown_file (
+
+idjava.lang.Long2readNote(Ljava/lang/Long;)"<
+' '((0
+.
+%1(com.example.microservicenote.entity.Note: 
+& &(.
+idjava.lang.LongB:8
+6com.example.microservicenote.controller.NoteControllerH

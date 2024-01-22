@@ -1,0 +1,3 @@
+com.example.microservicenote.service.NoteServiceimpl#readAllNoteByUser(Ljava/lang/Long;)Ljava/util/List;
+==
+findAllByIdUser com.example.microservicenote.repository.NoteRepository#findAllByIdUser(Ljava/lang/Long;)Ljava/util/List;

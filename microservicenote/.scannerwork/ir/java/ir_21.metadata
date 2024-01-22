@@ -1,0 +1,4 @@
+com.example.microservicenote.controller.NoteController#deleteNote(Ljava/lang/Long;)LResponseEntity;
+null
+==
+delete com.example.microservicenote.service.NoteService#delete(Ljava/lang/Long;)V

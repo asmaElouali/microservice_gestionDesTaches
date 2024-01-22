@@ -1,0 +1,3 @@
+com.example.microservicenote.controller.NoteController#readNote(Ljava/lang/Long;)Lcom/example/microservicenote/entity/Note;
+==
+readNote com.example.microservicenote.service.NoteService#readNote(Ljava/lang/Long;)Lcom/example/microservicenote/entity/Note;

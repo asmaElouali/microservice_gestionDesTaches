@@ -1,0 +1,6 @@
+com.example.microservicenote.controller.NoteControllerTest#testGetNotes()V
+com.example.microservicenote.entity.Note#instance-init#
+com.example.microservicenote.entity.Note#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Long;)V
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;
+==
+readAll com.example.microservicenote.service.NoteServiceimpl#readAll()Ljava/util/List;

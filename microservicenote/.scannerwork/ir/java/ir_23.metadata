@@ -1,0 +1,3 @@
+com.example.microservicenote.controller.NoteController#getNotes(Ljava/lang/Long;)Ljava/util/List;
+==
+readAllNoteByUser com.example.microservicenote.service.NoteService#readAllNoteByUser(Ljava/lang/Long;)Ljava/util/List;

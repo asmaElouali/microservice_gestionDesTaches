@@ -1,0 +1,6 @@
+com.example.microservicenote.service.NoteServiceimplTest#testDelete()V
+com.example.microservicenote.entity.Note#instance-init#
+com.example.microservicenote.entity.Note#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Long;)V
+==
+delete com.example.microservicenote.service.NoteServiceimpl#delete(Ljava/lang/Long;)V
+readNote com.example.microservicenote.service.NoteServiceimpl#readNote(Ljava/lang/Long;)Lcom/example/microservicenote/entity/Note;
